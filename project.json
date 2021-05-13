@@ -1,0 +1,22 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "ecologic-inquiry"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2021/sports/seattle-mariners-starting-lineup/"
+    }
+  },
+  "title": "Meet the 2021 Mariners starting lineup",
+  "description": "The 2021 MLB season is finally here. With a roster full of young talent (and more on the way), the Mariners will look to end their 19-year playoff drought. Here's a look at who you'll see take the field for Seattle on opening day.",
+  "author": "Scott Hanson",
+  "url": "https://projects.seattletimes.com/2021/sports/seattle-mariners-starting-lineup/",
+  "post_id": 13704423,
+  "image": "assets/social.jpg",
+  "sheets": ["1k_il-PlT7AtuspjlXK7Fq7rI1BLHqBVZ0-A_StIdgyw"],
+  "docs": [],
+  "embedded": false,
+  "production": true
+}
